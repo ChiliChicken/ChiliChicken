@@ -1,5 +1,6 @@
 ## Hi there 👋
-## This Chongyuan from POLYU🇭🇰. Welcome to my Homepage🎉🎉
+### This is Chongyuan from polyu🇭🇰. 
+### Welcome to my homepage🎉🎉
 
 <!--
 **ChiliChicken/ChiliChicken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
